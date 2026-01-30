@@ -3,8 +3,8 @@
 <h2>About Me</h2>
 <p>-📫Freelance developer</p>
 <p>-🖥️Full-stack web application developer</p>
-<p>-👨‍🎓BS Computer Science at ICCT Colleges (2022-2025)</p>
-<p>-👨‍🎓BS Aircraft Maintenance Tech at WCC Aeronautical & Technological College North Manila(2021)</p>
+<p>-👨‍🎓BS Computer Science at ICCT College Main Campus (2022-2025)</p>
+<p>-👨‍🎓BS Aircraft Maintenance Tech at WCC ATC North Manila (2021)</p>
 
 
 
