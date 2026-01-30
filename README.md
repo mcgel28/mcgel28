@@ -1,10 +1,11 @@
 <h1>Hey! 👋  I’m Adrian Arellano</h1>
 
 <h2>About Me</h2>
-<p>-🌱Computer Science student at ICCT Colleges (2022-Present)</p>
-<p>-👨‍🎓Graduate of BS Aircraft Maintenance Tech (2021)</p>
 <p>-📫Freelance developer</p>
 <p>-🖥️Full-stack web application developer</p>
+<p>-👨‍🎓BS Computer Science at ICCT Colleges (2022-2025)</p>
+<p>-👨‍🎓BS Aircraft Maintenance Tech at WCC Aeronautical & Technological College North Manila(2021)</p>
+
 
 
 <!---
